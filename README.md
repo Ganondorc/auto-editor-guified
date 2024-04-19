@@ -1,5 +1,13 @@
 <p align="center"><img src="https://auto-editor.com/img/auto-editor-banner.webp" title="Auto-Editor" width="700"></p>
 
+From Ganondorc:
+
+The only addition I'm making is gui-fying everything. That means you'll be able to play with the options and select the video in question using a standard menu, wherein the result file will be saved in the source folder.
+
+The rest of the README remains unchanged.
+
+---
+
 **Auto-Editor** is a command line application for automatically **editing video and audio** by analyzing a variety of methods, most notably audio loudness.
 
 ---
